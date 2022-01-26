@@ -1,0 +1,11 @@
+C:\Users\Moi\source\repos\GlitchScreenFramework\GlitchScreenFramework\bin\Debug\GlitchScreenFramework.exe.config
+C:\Users\Moi\source\repos\GlitchScreenFramework\GlitchScreenFramework\bin\Debug\GlitchScreenFramework.exe
+C:\Users\Moi\source\repos\GlitchScreenFramework\GlitchScreenFramework\bin\Debug\GlitchScreenFramework.pdb
+C:\Users\Moi\source\repos\GlitchScreenFramework\GlitchScreenFramework\obj\Debug\GlitchScreenFramework.csproj.AssemblyReference.cache
+C:\Users\Moi\source\repos\GlitchScreenFramework\GlitchScreenFramework\obj\Debug\GlitchScreenFramework.Form1.resources
+C:\Users\Moi\source\repos\GlitchScreenFramework\GlitchScreenFramework\obj\Debug\GlitchScreenFramework.Properties.Resources.resources
+C:\Users\Moi\source\repos\GlitchScreenFramework\GlitchScreenFramework\obj\Debug\GlitchScreenFramework.Reload.resources
+C:\Users\Moi\source\repos\GlitchScreenFramework\GlitchScreenFramework\obj\Debug\GlitchScreenFramework.csproj.GenerateResource.cache
+C:\Users\Moi\source\repos\GlitchScreenFramework\GlitchScreenFramework\obj\Debug\GlitchScreenFramework.csproj.CoreCompileInputs.cache
+C:\Users\Moi\source\repos\GlitchScreenFramework\GlitchScreenFramework\obj\Debug\GlitchScreenFramework.exe
+C:\Users\Moi\source\repos\GlitchScreenFramework\GlitchScreenFramework\obj\Debug\GlitchScreenFramework.pdb
